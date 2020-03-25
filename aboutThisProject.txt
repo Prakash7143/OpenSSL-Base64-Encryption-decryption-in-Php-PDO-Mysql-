@@ -1,0 +1,9 @@
+Import the "phpsecurity" mysql database.
+Open the project in your browser while moving it into "htdocs" or "www" directory.
+
+Here we are encrypting all form values including image and PDF file objects. Storing, retrieving and updating in the database using Php's PDO way and Ajax.
+
+For encryption, decryption we are using php's openssl_cipher.
+
+Happy Coding....
+Thanks...
